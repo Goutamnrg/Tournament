@@ -152,3 +152,6 @@ EXEC TOURNAMENTS.ParticipentsDelete 1
 
 SELECT * FROM TOURNAMENTS.Participents
 GO
+
+
+Select * from tournaments.ragistration
